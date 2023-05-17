@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Source Sans Pro";
-  src: url(.fonts/SourceSansPro-Regular.ttf);
+  src: url(./fonts/SourceSansPro-Light.ttf);
 }
 
 * {
@@ -78,7 +78,7 @@ header {
 }
 
 .img-banner {
-  background: url(../../assets/img/banner.jpg) right/cover;
+  background: url(./img/banner.jpg) right/cover;
 }
 
 /**************** SECTION 1 ****************/
@@ -89,7 +89,7 @@ header {
 }
 
 .section-1 .img {
-  background: url(../../assets/img/img-left.jpg) center/cover;
+  background: url(./img/img-left.jpg) center/cover;
 }
 
 /**************** SECTION 2 *****************/
@@ -100,7 +100,7 @@ header {
 }
 
 .section-2 .img {
-  background: url(../../assets/img/img-right.jpg) center/cover;
+  background: url(./img/img-right.jpg) center/cover;
 }
 
 /***************** CONTACT ******************/
